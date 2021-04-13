@@ -1,0 +1,42 @@
+# Project Information
+site_name: PagerDuty Customer Service Operations Guide
+site_description: This guide is a collection of resources and best practices from PagerDuty is intended to help organizations modernize their customer service teams for a digital world.
+site_author: PagerDuty, Inc.
+site_url: https://customerserviceops.pagerduty.com/
+
+# Repository
+repo_url: https://github.com/PagerDuty/full-case-ownership-docs
+
+# Copyright
+copyright: 'Copyright &copy; PagerDuty, Inc.'
+
+# Theme
+theme:
+  name: pagerduty
+  title: 'Customer Service Operations'
+
+# Contents
+nav:
+  - Home: 'index.md'
+  - Introduction: 'intro.md'
+
+# Analytics
+google_analytics: ['UA-8759953-1', 'auto']
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: '#'
+  - sane_lists:
+  - admonition:
+  - meta:
+  - pymdownx.details:
+  - pymdownx.extra:
+  - pymdownx.mark:
+  - pymdownx.tilde:
+  - pymdownx.highlight:
+  - pymdownx.superfences:
+  - pymdownx.tabbed:
+
+# Development URL, bind to local only.
+dev_addr: '127.0.0.1:8000'
