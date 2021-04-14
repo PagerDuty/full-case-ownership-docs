@@ -1,6 +1,7 @@
 # PagerDuty Best Practices for On-Call Teams Guide
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b7c1acb1-b332-461c-a9bf-67920caa38de/deploy-status)](https://app.netlify.com/sites/oncall-practices-d415fc/deploys) TODO
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae048151-1963-47a8-90d2-bf979801b958/deploy-status)](https://app.netlify.com/sites/customerservice-ops-4fe536/deploys)
+
 
 This guide is a collection of resources from PagerDuty that is intended to help organizations modernize their customer service teams for a digital world.
 
