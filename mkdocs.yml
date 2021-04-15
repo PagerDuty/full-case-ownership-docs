@@ -19,6 +19,12 @@ theme:
 nav:
   - Home: 'index.md'
   - Introduction: 'intro.md'
+  - Digital Organizations: 'digitalorgs.md'
+  - Customer Service in SDLC: 'sdlc.md'
+  - Customer Service Role in Incidents: 'incidents.md'
+  - Metrics: 'metrics.md'
+  - Next Steps: 'nextsteps.md'
+  - Additional Resources: 'resources.md'
 
 # Analytics
 google_analytics: ['UA-8759953-1', 'auto']
