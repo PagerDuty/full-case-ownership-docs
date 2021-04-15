@@ -6,6 +6,8 @@ Customer service (and traditional operations) teams might find themselves at odd
 
 Your teams should be working in sync to ensure there is awareness of changes and improvements and how those are improving the overall customer experience and satisfaction of your products.
 
+![Customer Experience](/assets/images/CE_Cycle.png){: style="height:400px"}
+
 ## CSAT, NPS, and FCR
 Customer service plays a key role in improving customer satisfaction (CSAT). You may already be managing customer service functions via a CSAT survey after customers contact your customer service team. Giving your customer service teams more ways to be proactive around incidents can improve customer satisfaction. Reach out proactively to VIP customers during incidents and escalate key accounts during triage.
 

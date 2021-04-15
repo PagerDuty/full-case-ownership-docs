@@ -9,11 +9,11 @@ Once PagerDuty and Zendesk are linked, Zendesk users can interact with PagerDuty
 
 Zendesk users can also [trigger PagerDuty incidents from within Zendesk leveraging our new incident command console (pictured below) ](https://support.pagerduty.com/docs/zendesk-integration-guide#automatically-trigger-pagerduty-incidents-from-zendesk) as well. When creating a new service in PagerDuty, integrate the service with Zendesk. That service will then receive information via Zendesk Triggers.
 
-IMAGE HERE
+![Zendesk Triggers in PagerDuty](/assets/images/Zendesk_Triggers.png)
 
 Our recent release of our integration with Zendesk includes a status dashboard and console to instantly make agents and key stakeholders aware of critical outages and issues impacting customers, while giving them the power to drive action immediately (pictured below).
 
-IMAGE HERE
+![Zendesk Status Dashboard in PagerDuty](/assets/images/Zendesk_Status.png)
 
 Integrated services are also able to [create tickets in Zendesk via the PagerDuty platform](https://support.pagerduty.com/docs/zendesk-integration-guide#create-a-zendesk-ticket-from-a-pagerduty-incident).
 
@@ -24,10 +24,10 @@ With PagerDuty for Customer Service + Salesforce, organizations will have the co
 - Enabling any customer support team member to reach on-call staff in real time with Live Call Routing
 - Providing ongoing incident resolution updates to build trust with customers
 
-IMAGE HERE
+![PagerDuty and Salesforce Capabilities](/assets/images/PD_Salesforce_Diagram.png)
 
 Once a Salesforce Cloud object is connected to your PagerDuty instance, new record creations and updates on that object are evaluated against rules that you predefine. If the rule criteria is met, PagerDuty will perform actions specified by those predefined rules.
 
 PagerDuty can also send information to Salesforce Cloud, where you can define the evaluation criteria against the updates made in PagerDuty and select an action to be performed in Salesforce Cloud.
 
-Find the full documentation to set up this integration in our [knowledge base](https://support.pagerduty.com/docs/salesforce-service-cloud-integration-guide)
+Find the full documentation to set up this integration in our [knowledge base](https://support.pagerduty.com/docs/salesforce-service-cloud-integration-guide).
