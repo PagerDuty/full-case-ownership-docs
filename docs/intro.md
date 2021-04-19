@@ -7,18 +7,18 @@ Digital-first, digital-only, and omnichannel businesses face the same challenges
 Feedback and customer reports can then increase dramatically when something goes wrong with your service(s). Incidents and unplanned work that occur within your digital platforms can strain your customer relationships. Even planned work can cause strife for some users who happen to stumble across some downtime needed to keep your platform running. Customer service teams play a crucial role managing customer communications during issues.
 
 > 51% of companies only become aware of an issue - such as a failed shopping cart of cable service outage - when customers complain.<br>
- -- [State of Unplanned Work report](https://www.pagerduty.com/resources/reports/unplanned-work/)
+ -- [State of Unplanned Work report](https://www.pagerduty.com/resources/reports/unplanned-work/){:target="_blank" }
 
 Getting ahead of problems and incidents before they impact users is a goal every organization strives to achieve. As systems increase in complexity, though, it is more and more difficult to get to that preventative point. When an incident happens, your customers might be the first to notice, especially, for example, in an environment where not all users are impacted.
 
 When your customers have issues with your services — even if the experience is limited to only their environment — a strong customer service practice strengthens customer and brand loyalty. Poor customer experiences can be amplified in the current social media landscape through outlets like Twitter, Facebook, and Yelp that make it easy for dissatisfied customers to air their grievances publicly.
 
 > In today’s always on world, 80% of people will stop doing business with a company because of a poor experience. <br>
--- Michael Redbord, [The Hard Truth About Acquisition Costs (and How Your Customers Can Save You)](https://blog.hubspot.com/service/customer-acquisition-study)
+-- Michael Redbord, [The Hard Truth About Acquisition Costs (and How Your Customers Can Save You)](https://blog.hubspot.com/service/customer-acquisition-study){:target="_blank" }
 
 Transforming customer service tooling and workflows will help your organization provide better customer experiences in a digital world. Using tools with powerful integrations will allow your customer service team to collaborate with technical and sales teams to provide exemplary customer experiences. Customer service teams are your first point of contact and a friendly face when your services are impacted by incidents.
 
-Automating your customer service processes will allow your teams to provide better service to more customers, setting your organization apart from the competition. Similar to [full-service ownership](https://ownership.pagerduty.com/), where engineers are empowered to own their code in production, this is accomplished through ***full-case ownership***.
+Automating your customer service processes will allow your teams to provide better service to more customers, setting your organization apart from the competition. Similar to [full-service ownership](https://ownership.pagerduty.com/){:target="_blank" }, where engineers are empowered to own their code in production, this is accomplished through ***full-case ownership***.
 
 ## Full-Case Ownership
 Full-case ownership is an operating model where customer service/support teams are empowered to own issues from first report to close. Agents have real-time visibility, context, and the direct ability to mobilize the right technical and operational teams to solve customer issues — all while proactively communicating with customers. The benefits of full-case ownership extend throughout the business by:
