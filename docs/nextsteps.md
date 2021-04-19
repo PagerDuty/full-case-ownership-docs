@@ -5,11 +5,11 @@ Improve customer experiences and increase internal team collaboration by integra
 
 PagerDuty for Zendesk facilitates cross-team communication between ITOps, DevOps, and your customer service teams. Communication silos are broken down, allowing you to mobilize the right resources across teams, in real time, every time.
 
-Find the full documentation to set up this integration in our [knowledge base](https://support.pagerduty.com/docs/zendesk-integration-guide)
+Find the full documentation to set up this integration in our [knowledge base](https://support.pagerduty.com/docs/zendesk-integration-guide){:target="_blank" }
 
 Once PagerDuty and Zendesk are linked, Zendesk users can interact with PagerDuty incidents, including creating, acknowledging, and resolving the incidents. Customer service team members can also add notes, such as additional customer data, or send a status update to internal users that might be subscribed to the incident.
 
-Zendesk users can also [trigger PagerDuty incidents from within Zendesk leveraging our new incident command console (pictured below) ](https://support.pagerduty.com/docs/zendesk-integration-guide#automatically-trigger-pagerduty-incidents-from-zendesk) as well. When creating a new service in PagerDuty, integrate the service with Zendesk. That service will then receive information via Zendesk Triggers.
+Zendesk users can also [trigger PagerDuty incidents from within Zendesk leveraging our new incident command console (pictured below) ](https://support.pagerduty.com/docs/zendesk-integration-guide#automatically-trigger-pagerduty-incidents-from-zendesk){:target="_blank" } as well. When creating a new service in PagerDuty, integrate the service with Zendesk. That service will then receive information via Zendesk Triggers.
 
 ![Zendesk Triggers in PagerDuty](/assets/images/Zendesk_Triggers.png)
 
@@ -17,7 +17,7 @@ Our recent release of our integration with Zendesk includes a status dashboard a
 
 ![Zendesk Status Dashboard in PagerDuty](/assets/images/Zendesk_Status.png)
 
-Integrated services are also able to [create tickets in Zendesk via the PagerDuty platform](https://support.pagerduty.com/docs/zendesk-integration-guide#create-a-zendesk-ticket-from-a-pagerduty-incident).
+Integrated services are also able to [create tickets in Zendesk via the PagerDuty platform](https://support.pagerduty.com/docs/zendesk-integration-guide#create-a-zendesk-ticket-from-a-pagerduty-incident){:target="_blank" }.
 
 ## Integrating Salesforce and PagerDuty
 With PagerDuty for Customer Service + Salesforce, organizations will have the context needed to deliver accurate solutions. This includes mobilizing the right teams and technical responders with customer service representatives to resolve issues quickly, and keep customers updated with the latest information. By implementing PagerDuty for Customer Service + Salesforce, technical responders can empower customer support teams to deliver amazing service around the clock to truly help customers by:
@@ -32,4 +32,4 @@ Once a Salesforce Cloud object is connected to your PagerDuty instance, new reco
 
 PagerDuty can also send information to Salesforce Cloud, where you can define the evaluation criteria against the updates made in PagerDuty and select an action to be performed in Salesforce Cloud.
 
-Find the full documentation to set up this integration in our [knowledge base](https://support.pagerduty.com/docs/salesforce-service-cloud-integration-guide).
+Find the full documentation to set up this integration in our [knowledge base](https://support.pagerduty.com/docs/salesforce-service-cloud-integration-guide){:target="_blank" }.

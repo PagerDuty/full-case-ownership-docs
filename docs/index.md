@@ -4,7 +4,7 @@ The requirements of digital operations for businesses in any industry can stretc
 
 We know that digital operations is a complex mix of distributed systems mastery and in-depth awareness of the broader IT industry ecosystem. Staying on top of and maintaining your organization’s technical platforms can be daunting. It’s easy to miss things when something goes wrong and your team is embroiled in an incident.
 
-One thing you can never, ever go short on is communications with your team and your users during an incident. We highlight the role of the [customer liaison](https://response.pagerduty.com/training/customer_liaison/) in our [Incident Response Training](https://response.pagerduty.com). In this guide, we will revisit some of those points — but with a focus on the role of your customer service team in a digital operations environment.
+One thing you can never, ever go short on is communications with your team and your users during an incident. We highlight the role of the [customer liaison](https://response.pagerduty.com/training/customer_liaison/){:target="_blank" } in our [Incident Response Training](https://response.pagerduty.com){:target="_blank" }. In this guide, we will revisit some of those points — but with a focus on the role of your customer service team in a digital operations environment.
 
 If your team is new to incident response, you can read up on our methods in the other guide, but it isn’t a pre-requisite for the material provided in this guide.
 
@@ -59,4 +59,4 @@ Links to additional reading from PagerDuty and other industry sources to help yo
 ## License
 This documentation is provided under the Apache License 2.0. In plain English, that means you can use and modify this documentation and use it both commercially and for private use. However, you must include any original copyright notices and the original LICENSE file.
 
-Whether you are a PagerDuty customer or not, we want you to have the ability to use this documentation internally at your own company. You can view the source code for all of [this documentation](https://github.com/PagerDuty/full-case-ownership-docs) on our [GitHub account](https://github.com/PagerDuty/); feel free to fork the repository and use it as a base for your own internal documentation.
+Whether you are a PagerDuty customer or not, we want you to have the ability to use this documentation internally at your own company. You can view the source code for all of [this documentation](https://github.com/PagerDuty/full-case-ownership-docs){:target="_blank" } on our [GitHub account](https://github.com/PagerDuty/){:target="_blank" }; feel free to fork the repository and use it as a base for your own internal documentation.
