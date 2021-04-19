@@ -3,7 +3,7 @@
 ## PagerDuty Resources
 [PagerDuty](https://pagerduty.com){:target="_blank" } has a number of resources available:
 
-- Download our report, [*the State of Unplanned Work*](https://www.pagerduty.com/resources/reports/unplanned-work/). Some key findings are summarized [on our blog](https://www.pagerduty.com/blog/unplanned-work-report-2019/){:target="_blank" }.
+- Download our report, [*the State of Unplanned Work*](https://www.pagerduty.com/resources/reports/unplanned-work/){:target="_blank" }. Some key findings are summarized [on our blog](https://www.pagerduty.com/blog/unplanned-work-report-2019/){:target="_blank" }.
 
 - Check out our ebook, [*Where Real-Time Work Meets Customer Service*](https://www.pagerduty.com/resources/ebook/real-time-work-customer-service/){:target="_blank" }.
 
