@@ -30,7 +30,7 @@ How to align customer service teams with engineering teams in support of the cus
 - [Customer Service in the Software Delivery Lifecycle](sdlc/#customer-service-in-the-software-development-life-cycle)
 
 ### The Customer Service Role in Incidents
-How to make your customer service and development teams part of delivering customer satisfaction instead of just reporting on it
+How to make your customer service and development teams part of delivering customer satisfaction instead of just reporting on it.
 
 - [Customer Service Role in Incident Response](incidents/)
 - [Aggregation of Customer-Reported Issues](incidents/#aggregation-of-customer-reported-issues)
@@ -42,8 +42,8 @@ How to make your customer service and development teams part of delivering custo
 From CSAT, to NPS, to FCR: how to understand and improve on your metrics.
 
 - [Metrics, Goals, and Incentivization](metrics/)
-- [CSAT, NPS and FCR](metrics/#csat-nps-and-fcr). Common customer service metrics such as Customer Satisfaction, Net Promoter Score, and First Contact Resolution.
-- [MTTA and MTTR](metrics/#mtta-and-mttr). Incident response metrics including Mean Time to Acknowledge and Mean Time to Recover.
+- [CSAT, NPS and FCR](metrics/#csat-nps-and-fcr): Common customer service metrics such as Customer Satisfaction, Net Promoter Score, and First Contact Resolution.
+- [MTTA and MTTR](metrics/#mtta-and-mttr): Incident response metrics including Mean Time to Acknowledge and Mean Time to Recover.
 
 ### Next Steps
 Put Full-Case Ownership into practice for your team using the PagerDuty platform as an example and learn about our Zendesk and Salesforce Service Cloud Integrations.
