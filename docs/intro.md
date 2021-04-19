@@ -25,6 +25,6 @@ Full-case ownership is an operating model where customer service/support teams a
 
 - Giving service agents a direct line to management and engineering to ensure cases nearing / breaching SLAs (service level agreements) are escalated for attention and resolved
 - Giving engineers a direct line to customer service to gather more information and deliver the right customer response
-- Empowering agents to resolve cases end-to-end with direct lines of escalation to the teams who can actually help you fix the problem.
+- Empowering agents to resolve cases end-to-end with direct lines of escalation to the teams who can actually help you fix the problem
 
 Without full-case ownership, customer service agents are unable to control their own destiny. Agents accountable to metrics like time to resolution (TTR) and customer satisfaction (CSAT) should be empowered to actually resolve cases and tickets end-to-end.
