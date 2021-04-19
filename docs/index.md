@@ -15,7 +15,7 @@ Customer service is a discipline much like any other throughout the digital orga
 
 ## What is Covered?
 - [Introduction](intro)
-- [What Is Full-Case Ownership?](intro/#full-case-ownership): Our definition of full-case ownership and why customer service teams should adopt this set of practices.
+- [What Is Full-Case Ownership?](intro/#full-case-ownership) Our definition of full-case ownership and why customer service teams should adopt this set of practices.
 
 ### Customer Service in Digital Organizations
 How full-case ownership fits into digital transformation initiatives and ways for customer service teams to quickly demonstrate an increase in value.
