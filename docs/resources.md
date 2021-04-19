@@ -11,6 +11,8 @@
 
 - View our webinar, [*Solve Customer Issues in Real-Time by Uniting Your Customer Service and Technical Teams*](https://pagerduty.wistia.com/medias/35va08byec){:target="_blank" }.
 
+- PagerDuty's Chief Customer Officer, Manjula Talreja, talks about [*Getting Ahead of Customer Issues With PagerDuty for Customer Service*](https://www.pagerduty.com/resources/webinar/pagerduty-for-customer-service/){:target="_blank" }.
+
 
 ### Integrations
 - [PagerDuty for Customer Service and Salesforce Service Cloud](https://www.pagerduty.com/integrations/salesforce/){:target="_blank" }

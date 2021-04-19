@@ -9,7 +9,10 @@ Your teams should be working in sync to ensure there is awareness of changes and
 ![Customer Experience](/assets/images/CE_Cycle.png){: style="height:400px"}
 
 ## CSAT, NPS, and FCR
-Customer service plays a key role in improving customer satisfaction (CSAT). You may already be managing customer service functions via a CSAT survey after customers contact your customer service team. Giving your customer service teams more ways to be proactive around incidents can improve customer satisfaction. Reach out proactively to VIP customers during incidents and escalate key accounts during triage.
+Customer service plays a key role in improving customer satisfaction (CSAT). You may already be managing customer service functions via a CSAT survey after customers contact your customer service team. Giving your customer service teams more ways to be proactive around incidents can improve customer satisfaction.
+
+!!! tip
+    Reach out proactively to VIP customers during incidents and escalate key accounts during triage.
 
 How your organization handles incidents can impact brand loyalty — both positively when things are handled well and negatively when things are handled poorly. Your team might be measuring this impact via the Net Promoter Score, or NPS. NPS differs from CSAT in that it is really asking your customers how likely they are to recommend your product or service to someone else. Providing good customer service and proactive communications during incidents makes a positive recommendation more likely.
 
