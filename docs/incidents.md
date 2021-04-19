@@ -19,10 +19,10 @@ Complex meshes of interconnected microservices make determining the blast radius
 
 As a customer service team receives reports of issues during an incident, that data becomes part of the impact of the incident and should be incorporated into the resolution process. Some examples include:
 
-- **Geographic aggregation**: “we’re seeing increased reports of issues from customers in central and southern Europe, but not northern Europe.”
-- **Data partitioning**: “we’re seeing increased reports of issues for customers with account numbers starting with 1-4 only.”
-- **Product versioning**: “we’re seeing increased reports of issues for customers on version 5.1 of the client software” or “customers using Android are reporting more problems than customers using iOS.”
-- **Feature partitioning**: “only accounts with the new Teapot Customization feature enabled are seeing issues.”
+- **Geographic aggregation**: “We’re seeing increased reports of issues from customers in central and southern Europe, but not northern Europe.”
+- **Data partitioning**: “We’re seeing increased reports of issues for customers with account numbers starting with 1-4 only.”
+- **Product versioning**: “We’re seeing increased reports of issues for customers on version 5.1 of the client software” or “customers using Android are reporting more problems than customers using iOS.”
+- **Feature partitioning**: “Only accounts with the new Teapot Customization feature enabled are seeing issues.”
 
 This is all vitally important intelligence that can be difficult to dig out of the services themselves, especially when application teams are trying to remediate the incident. Even when some of the data points might be known (e.g., the datacenter in southern Europe is offline — customer reports verify that your failover to another datacenter for those customers has failed).
 
