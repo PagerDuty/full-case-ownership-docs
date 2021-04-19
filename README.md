@@ -7,7 +7,7 @@ This guide is a collection of resources from PagerDuty that is intended to help 
 
 You can view the documentation directly in this repository, or rendered as a website at https://customerserviceops.pagerduty.com.
 
-[![PagerDuty Customer Service Operations](screenshot.png)](https://full-case-ownership.pagerduty.com/)
+[![PagerDuty Customer Service Operations](screenshot.png)](https://customerserviceops.pagerduty.com/)
 
 
 ## Development

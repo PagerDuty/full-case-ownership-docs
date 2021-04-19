@@ -1,6 +1,8 @@
+![Customer Service Role in Incidents](assets/images/headers/CustServOps-Incidents.png)
+
 > ...Customers don’t remember the actual incident, but rather the
 experience during the disruption of their service. Customers expect software to fail, but
-also expect that the experience the vendor provides them to be world-class.
+also expect that the experience the vendor provides them to be world-class.<br>
 -- Manjula Talreja, Chief Customer Officer, PagerDuty
 
 Customer service teams are a key participant in successful incident response. While digital organizations strive for proactive monitoring and telemetry collection across services and applications, complexity and scale make being perfectly proactive all but impossible. End users may notice something is wrong before an alarm triggers sometimes. Providing a clear path for customer service teams to escalate customer-reported issues to the appropriate teams, and to participate in the remediation process, focuses incident resolution on the customer.
@@ -19,7 +21,7 @@ As a customer service team receives reports of issues during an incident, that d
 
 - **Geographic aggregation**: “we’re seeing increased reports of issues from customers in central and southern Europe, but not northern Europe.”
 - **Data partitioning**: “we’re seeing increased reports of issues for customers with account numbers starting with 1-4 only.”
-- **Product versioning**: “we’re seeing increased reports of issues for customers on version 5.1 of the client software” or “customers using Android are reporting more problems than customers using IOS.”
+- **Product versioning**: “we’re seeing increased reports of issues for customers on version 5.1 of the client software” or “customers using Android are reporting more problems than customers using iOS.”
 - **Feature partitioning**: “only accounts with the new Teapot Customization feature enabled are seeing issues.”
 
 This is all vitally important intelligence that can be difficult to dig out of the services themselves, especially when application teams are trying to remediate the incident. Even when some of the data points might be known (e.g., the datacenter in southern Europe is offline — customer reports verify that your failover to another datacenter for those customers has failed).
@@ -41,7 +43,7 @@ Not all of your customers will be watching your social media accounts for update
 ## Post-Incident Follow Up
 Maintaining customer relationships after an incident is crucial. Incidents happen to everyone, all the time, and how your organization responds and communicates with customers afterwards will set you apart from other organizations.
 
-Many customers will figure out when a service is restored and things are back to normal when they try to access the service, or if they are watching your status page/status updates. For customers that report issues, and for customers with priority support or other white glove services, your customer service team is there to reach out personally and let users know that the incident is over.
+Many customers will figure out when a service is restored and things are back to normal when they try to access the service, or if they are watching your status page or status updates. For customers that report issues, and for customers with priority support or other white glove services, your customer service team is there to reach out personally and let users know that the incident is over.
 
 Depending on the nature of the services impacted and user interest, your customer service team may notify users when the services are verified to be restored, but they can also notify customers after the [postmortem](https://postmortems.pagerduty.com) is held. This gives the customer service team extra data to present to the users about the impact of the incident, the resolution, and the long-term plans for prevention. The customer service team follows the incident reports in a *full-case ownership* methodology, providing the customer with a consistent point of contact through issue resolution.
 

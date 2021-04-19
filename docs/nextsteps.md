@@ -1,3 +1,5 @@
+![Next Steps](assets/images/headers/CustServOps-NextSteps.png)
+
 ## Integrating Zendesk and PagerDuty
 Improve customer experiences and increase internal team collaboration by integrating your customer service tools with the PagerDuty tools your engineering teams are already using to monitor and respond to incidents on your platforms. Providing your customer service teams with powerful integrations from within their own apps gives them a powerful tool without leaving their workspace to find the right services or teams to alert when a customer reports an issue.
 

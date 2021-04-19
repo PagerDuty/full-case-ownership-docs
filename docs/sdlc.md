@@ -1,3 +1,5 @@
+![Customer Service and Engineering](assets/images/headers/CustServOps-SDLC.png)
+
 For digital businesses, users interact with products and services via software, on their mobile devices, and/or computers. How that software behaves and performs in production can be monitored and measured, but live user experience is difficult to pin down before release. Customer service teams provide a crucial feedback route for users of your digital products to report bugs and request features.  
 
 ## Customer Service in the Software Development Life Cycle

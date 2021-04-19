@@ -1,6 +1,7 @@
+![Digital Organizations](assets/images/headers/CustServOps-DigitalOrgs.png)
 
-
->  “Consumers appreciate  experiences that spark delight. They love experiences  that spark hope”. -- https://go.forrester.com/predictions-2020
+>  Consumers appreciate  experiences that spark delight. They love experiences  that spark hope.<br>
+-- [Forrester's *Predictions 2020*](https://go.forrester.com/predictions-2020)
 
 Customers are increasingly interacting with retail, travel, and entertainment activities in digital-first and digital-only ways for everything — from the convenience of online banking, to hanging out at home binge-watching the newest hit show. Customer service teams are faced with more work than ever before and require tooling that will keep up with demand.
 
