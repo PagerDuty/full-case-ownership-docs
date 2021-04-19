@@ -13,7 +13,7 @@ Focusing on the customer experience builds brand loyalty and creates return cust
 
 Your customer service teams should be empowered to pull the cord in your organizations as well. Customer service agents see issues just as the users see them, are able to aggregate and correlate reports, and gather additional information from reporting users to enhance the response process. They should be encouraged to escalate issues to the appropriate technical teams when the user experience is jeopardized.
 
-Creating a customer-first or customer-focused culture can provide more positive outcomes than any marketing campaign. The now-legendary story of a Nordstrom store refunding a purchase of tires from the shop that had previously stood on the Nordstrom location is nearly 50 years old but still boosts Nordstrom’s reputation and customer loyalty. Providing exceptional customer service, customer support, and customer experience is a part of your product and increases its value.
+Creating a customer-first or customer-focused culture can provide more positive outcomes than any marketing campaign. The [now-legendary story](https://www.cbsnews.com/news/many-happy-returns/){:target="_blank"} of a Nordstrom store refunding a purchase of tires from the shop that had previously stood on the Nordstrom location is nearly 50 years old but still boosts Nordstrom’s reputation and customer loyalty. Providing exceptional customer service, customer support, and customer experience is a part of your product and increases its value.
 
 ## White-Glove Experiences
 Digital interactions change the available options to create exclusive experiences for your priority customers. What is the chef’s table or personal shopper experience in a digital-only world?
