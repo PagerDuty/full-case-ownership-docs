@@ -6,7 +6,7 @@ Digital-first, digital-only, and omnichannel businesses face the same challenges
 
 Feedback and customer reports can then increase dramatically when something goes wrong with your service(s). Incidents and unplanned work that occur within your digital platforms can strain your customer relationships. Even planned work can cause strife for some users who happen to stumble across some downtime needed to keep your platform running. Customer service teams play a crucial role managing customer communications during issues.
 
-> 51% of companies only become aware of an issue - such as a failed shopping cart of cable service outage - when customers complain.<br>
+> 51% of companies only become aware of an issue - such as a failed shopping cart or cable service outage - when customers complain.<br>
  -- [State of Unplanned Work report](https://www.pagerduty.com/resources/reports/unplanned-work/){:target="_blank" }
 
 Getting ahead of problems and incidents before they impact users is a goal every organization strives to achieve. As systems increase in complexity, though, it is more and more difficult to get to that preventative point. When an incident happens, your customers might be the first to notice, especially, for example, in an environment where not all users are impacted.
